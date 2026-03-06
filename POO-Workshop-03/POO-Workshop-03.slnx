@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/32/">
+    <Project Path="Rhombus/Rhombus.csproj" Id="2a556788-2d69-4085-a15f-919c116190c4" />
+  </Folder>
+  <Folder Name="/33/">
+    <Project Path="MatrixMultiplication/MatrixMultiplication.csproj" Id="8f734ac3-95eb-42e6-b632-49b6a6df6440" />
+  </Folder>
+  <Folder Name="/Shared/">
+    <Project Path="Shared/Shared.csproj" Id="21ccc845-17ea-48ea-a91b-2ccbeb6b1e81" />
+  </Folder>
+</Solution>
